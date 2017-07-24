@@ -23,6 +23,12 @@ let emptyObject = Js.Obj.empty ();
 //   var warning = require('fbjs/lib/warning');
 // }
 
+// import _assign from 'object-assign';
+// import emptyObject from 'fbjs/lib/emptyObject';
+// import _invariant from 'fbjs/lib/invariant';
+
+// import warning from 'fbjs/lib/warning';
+
 var MIXINS_KEY = 'mixins';
 
 // Helper function to allow the creation of anonymous functions which do not
